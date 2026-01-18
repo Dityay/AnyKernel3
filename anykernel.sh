@@ -4,10 +4,11 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=DeltaKernel
+kernel.string=
 do.devicecheck=1
-device.name1=earth
-device.name2=aether
+device.name1=fog
+device.name2=rain
+device.name3=wind
 do.modules=0
 do.systemless=1
 do.cleanup=1
